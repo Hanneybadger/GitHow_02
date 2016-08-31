@@ -1,1 +1,3 @@
-Hello
+Max = "Hello"
+
+print Max
